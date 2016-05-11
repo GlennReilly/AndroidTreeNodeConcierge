@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Concierge</string>
+    <string name="title">NSW Health</string>
+    <string name="subtitle">Blacktown Hospital</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_category1">Category 1</string>
+    <string name="btn_category2">Category 2</string>
+    <string name="btn_category3">Category 3</string>
+    <string name="btn_category4">Category 4</string>
+    <string name="btn_category5">Category 5</string>
+    <string name="estimated_wait_time">Estimated wait time:</string>
+    <string name="ticket_number_label">Your ticket number is</string>
+    <string name="print_ticket">Print ticket</string>
+    <string name="selected_item_lead_in">You selected: </string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="MENU_ITEM_CATEGORY" type="id" />
+    <item name="SELECTED_MENUITEM_TEXT_AND_ID" type="id" />
+    <item name="THIS_NODE" type="id" />
+</resources>

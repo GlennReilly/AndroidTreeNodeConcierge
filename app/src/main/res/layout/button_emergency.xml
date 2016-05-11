@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="20dp"
+    android:text="test button"
+    android:textColor="@color/btn_white"
+    android:id="@+id/button_emergency"
+    android:background="@color/btn_emergency_red"
+    android:layout_marginBottom="15dp"
+    android:width="250dip"
+    android:layout_below="@+id/logoImage"
+    android:layout_centerHorizontal="true" />

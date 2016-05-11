@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_emergency_red" type="color">#a31e1e</item>
+    <item name="btn_purple" type="color">#5c2d50</item>
+    <item name="btn_aqua" type="color">#19595b</item>
+    <item name="btn_pink" type="color">#ff3dd3</item>
+    <item name="btn_avocado" type="color">#94b001</item>
+    <item name="btn_default" type="color">#CCCC99</item>
+    <item name="btn_serious_blue" type="color">#336699</item>
+    <item name="btn_white" type="color">#ffffff</item>
+</resources>
